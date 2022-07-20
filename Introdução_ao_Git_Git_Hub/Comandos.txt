@@ -1,0 +1,43 @@
+Iniciar o repositório do Git
+	git init
+
+Mover arquivos e iniciar versionamento
+	git add
+
+Iniciar um Commit
+	git commit
+
+Acessar uma pasta oculta ".git"
+	ls -a
+
+Abrir a pasta oculta
+	cd .git/
+
+Configurações iniciais (e-mail, nome...)
+	git config --global user.name "Digita o nome"
+	git config --global user.email "Digita o e-mail"
+	git config -l (visualiza a configuração)
+
+Mostrar status do trabalho
+	git status
+
+Retroceder um arquivo para "staged"
+	git restore --stage "nome do arqv"
+
+Criar arquivo pelo diretório
+	echo > "Nome_do_arqv.extensao"
+
+Colocar tudo em staged
+	git add *
+
+Copiar o link de um repositório
+	git clone
+
+Adicionar a origem ao repositório remoto
+	git remote add origin "cola o link copiado o github"
+
+Mostrar lista de repositórios cadastrados
+	git remote -v
+
+Levar o código do repositório local para o remoto
+	git push origin master
