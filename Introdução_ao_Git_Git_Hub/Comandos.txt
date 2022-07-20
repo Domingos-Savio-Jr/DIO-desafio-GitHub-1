@@ -31,7 +31,7 @@ Colocar tudo em staged
 	git add *
 
 Copiar o link de um repositório
-	git clone
+	git clone "cola o link copiado"
 
 Adicionar a origem ao repositório remoto
 	git remote add origin "cola o link copiado o github"
