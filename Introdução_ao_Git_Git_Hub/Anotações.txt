@@ -1,0 +1,16 @@
+Link do git: https://github.com/Domingos-Savio-Jr
+
+Deve-se criar uma conta no Git e realizar o download do git bash
+
+Comandos úteis:
+1- dir: Diretório
+2- cd/: Entra na base "c"
+3- cd ..: Retroceder
+4- cls : Limpa tela
+5- "tab": Autocompleta
+6- mkdir: Cria diretório
+7- > : Redirecionador de fluxo
+8- del: Deleta arquivos
+9- rm: Também deleta arquivos
+10- rmdir: Remove diretórios
+ 
